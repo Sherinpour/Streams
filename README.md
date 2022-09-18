@@ -21,8 +21,6 @@ Built With
     redux
     redux-form
     redux-thunk
-    json-server
-    node-media-server
 
 ## Usage
 - Clone project into local repository
